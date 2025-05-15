@@ -4,8 +4,6 @@ Bu proje, düğün, doğum günü, nişan, kına ve benzeri birçok etkinlik iç
 
 ---
 
-## 📸 Örnek Ekran Görüntüleri
-
 ### 🏠 Ana Sayfa
 ![home](readmeİmg/home.jpg)
 
