@@ -1,4 +1,4 @@
-# 🎉 OrganizationWebSite - Organizasyon Rezervasyon Sistemi
+#  OrganizationWebSite - Organizasyon Rezervasyon Sistemi
 
 Bu proje, düğün, doğum günü, nişan, kına ve benzeri birçok etkinlik için **online rezervasyon** işlemlerinin yapılabildiği tam kapsamlı bir **organizasyon rezervasyon sistemidir**. Kullanıcılar kayıt olabilir, giriş yapabilir ve tercih ettikleri organizasyonlar için rezervasyon oluşturabilir. Admin ve kullanıcı tarafında farklı rollerle sistem yönetilebilir.
 
